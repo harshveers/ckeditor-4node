@@ -1,0 +1,19 @@
+{
+  "name": "ckeditor-custom",
+  "version": "1.0.0",
+  "description": "Copy of ckeditor full build ===========================",
+  "main": "build-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshveers/ckeditor-custom.git"
+  },
+  "author": "Harshveer Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshveers/ckeditor-custom/issues"
+  },
+  "homepage": "https://github.com/harshveers/ckeditor-custom#readme"
+}
