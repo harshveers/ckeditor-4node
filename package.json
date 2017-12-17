@@ -1,19 +1,19 @@
 {
-  "name": "ckeditor-custom",
+  "name": "ckeditor-4node",
   "version": "1.0.0",
-  "description": "Copy of ckeditor full build ===========================",
+  "description": "CKEditor 4 customized for a Node application",
   "main": "build-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshveers/ckeditor-custom.git"
+    "url": "git+https://github.com/harshveers/ckeditor-4node.git"
   },
   "author": "Harshveer Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harshveers/ckeditor-custom/issues"
+    "url": "https://github.com/harshveers/ckeditor-4node/issues"
   },
-  "homepage": "https://github.com/harshveers/ckeditor-custom#readme"
+  "homepage": "https://github.com/harshveers/ckeditor-4node#readme"
 }
