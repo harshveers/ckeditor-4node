@@ -13,10 +13,10 @@
  * (1) http://ckeditor.com/builder
  *     Visit online builder to build CKEditor from scratch.
  *
- * (2) http://ckeditor.com/builder/73bd9c2e835878203efd09837448012a
+ * (2) http://ckeditor.com/builder/62059ff30b5c8e40c9bae5ab77c3092f
  *     Visit online builder to build CKEditor, starting with the same setup as before.
  *
- * (3) http://ckeditor.com/builder/download/73bd9c2e835878203efd09837448012a
+ * (3) http://ckeditor.com/builder/download/62059ff30b5c8e40c9bae5ab77c3092f
  *     Straight download link to the latest version of CKEditor (Optimized) with the same setup as before.
  *
  * NOTE:
@@ -52,7 +52,6 @@ var CKBUILDER_CONFIG = {
 	],
 	plugins : {
 		'a11yhelp' : 1,
-		'about' : 1,
 		'basicstyles' : 1,
 		'bidi' : 1,
 		'blockquote' : 1,
@@ -63,12 +62,10 @@ var CKBUILDER_CONFIG = {
 		'copyformatting' : 1,
 		'dialogadvtab' : 1,
 		'div' : 1,
-		'elementspath' : 1,
 		'enterkey' : 1,
 		'entities' : 1,
 		'filebrowser' : 1,
 		'find' : 1,
-		'flash' : 1,
 		'floatingspace' : 1,
 		'font' : 1,
 		'format' : 1,
@@ -81,12 +78,10 @@ var CKBUILDER_CONFIG = {
 		'indentblock' : 1,
 		'indentlist' : 1,
 		'justify' : 1,
-		'language' : 1,
 		'link' : 1,
 		'list' : 1,
 		'liststyle' : 1,
 		'magicline' : 1,
-		'maximize' : 1,
 		'newpage' : 1,
 		'pagebreak' : 1,
 		'pastefromword' : 1,
@@ -94,9 +89,7 @@ var CKBUILDER_CONFIG = {
 		'preview' : 1,
 		'print' : 1,
 		'removeformat' : 1,
-		'resize' : 1,
 		'save' : 1,
-		'scayt' : 1,
 		'selectall' : 1,
 		'showblocks' : 1,
 		'showborders' : 1,
@@ -108,11 +101,9 @@ var CKBUILDER_CONFIG = {
 		'table' : 1,
 		'tableselection' : 1,
 		'tabletools' : 1,
-		'templates' : 1,
 		'toolbar' : 1,
 		'undo' : 1,
 		'uploadimage' : 1,
-		'wsc' : 1,
 		'wysiwygarea' : 1
 	},
 	languages : {
