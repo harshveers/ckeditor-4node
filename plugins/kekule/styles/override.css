@@ -15,6 +15,6 @@ img.K-Chem-Viewer3D
     background-color: #000;
 }
 
-.K-Chem-Obj-Setter .K-Chem-Obj-Setter-TabGroup {
-	display: none;
+.K-Chem-Obj-Setter-TabGroup {
+	visibility: hidden;
 }
